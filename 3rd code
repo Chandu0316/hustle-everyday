@@ -1,0 +1,32 @@
+package insider;
+
+public class insider {
+
+	public static void main(String[] args) {
+		
+ int a=200,b=250,c=300,min=0,max=0;
+ if((a>b)&&(a>c));
+ min=a;
+ max=a;{
+ if((b<a)&&(b<c));
+ min=b;
+ max=b;{
+	 if((c>a)&&(c>b));
+	 min=c;
+	 max=c;
+	 }
+	 System.out.println("minvalue--"+min);
+	 
+	 
+ }
+ }
+ 
+	 
+	 
+	 
+ }
+ 
+ 
+	
+
+
