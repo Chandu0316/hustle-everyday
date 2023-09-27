@@ -1,0 +1,23 @@
+package insider;
+
+public class insider {
+
+	public static void main(String[] args) {
+		
+ int e=1;
+ for(System.out.println("hello");
+		 e<=10;
+		 System.out.println("welcome")){
+	 System.out.println(e);
+	 e++;
+ }
+ System.out.print("main \nstream of the \nstory");
+	 
+	 
+	 
+ }
+ 
+ 
+	}
+
+
