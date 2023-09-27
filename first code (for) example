@@ -1,0 +1,13 @@
+package javafirst;
+
+public class javaprogram {
+
+	public static void main(String[] args) {
+	 int f=1;
+	 for(System.out.println("hello");f<=10;System.out.println("welcome"));
+		System.out.println(f); f++;
+	 }
+
+
+    	   
+       }
